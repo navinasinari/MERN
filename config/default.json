@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb://Nav123:Nav123@devconnect-shard-00-00.5ekqm.mongodb.net:27017,devconnect-shard-00-01.5ekqm.mongodb.net:27017,devconnect-shard-00-02.5ekqm.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-sjs0vu-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "mongoURI": "abc",
     "jwtSecret": "mysecrettoken"
 }
